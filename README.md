@@ -1,71 +1,18 @@
-# Hey 👋 I'm Hrithik
+# 💫 About Me:
+☕ Java Developer | ⚙️ Backend Engineer | 📡 R&D @ Jio Platforms  <br>🚀 Making backend systems fast enough for the 5G era<br>I'm a Java backend developer working in R&D at Jio Platforms Limited, helping build the backend systems that survive real-world 5G traffic.<br>I spend my days designing APIs, optimising performance, and questioning why it worked yesterday but not today. I like clean code, scalable systems, and design that actually makes sense.<br>Backend developer: if it’s fast, reliable, and boring—you’re welcome.
 
-☕ Java Developer | ⚙️ Backend Engineer | 📡 R&D @ Jio Platforms  
-🚀 Making backend systems fast enough for the 5G era
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrithikkkjainn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrithik18.jain@gmail.com) 
 
-## 🧠 About Me
+# 💻 Tech Stack:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HrithikBuilds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HrithikBuilds&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HrithikBuilds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a **Java backend developer** working in **R&D at Jio Platforms Limited**, helping build the backend systems that survive **real-world 5G traffic**.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-I spend my days designing APIs, optimizing performance, and questioning why it worked yesterday but not today. I like **clean code**, **scalable systems**, and **design that actually makes sense**.
-
-> _Backend developer: if it’s fast, reliable, and boring—you’re welcome._
-
----
-
-## 🔧 Tech Stack (aka My Daily Toolkit)
-
-**Languages**
-- Java (because it never lets me go)
-- SQL (talking to databases politely)
-
-**Backend Stuff**
-- Spring / Spring Boot
-- REST APIs
-- Microservices (yes, the fun kind)
-
-**Databases**
-- MySQL
-- PostgreSQL
-- Redis (because speed matters)
-
-**Tools**
-- Git (commit early, commit often)
-- Docker (works on my machine™)
-- Linux
-- CI/CD
-
-**Design**
-- System Design
-- API Design
-- Performance Tuning (milliseconds matter)
-
----
-
-## 🧪 Current Experiments
-
-- Building backend systems that don’t panic under load
-- Making APIs cleaner so future-me doesn’t suffer
-- Breaking things in R&D so production can stay calm
-
----
-
-## 😄 Fun Facts
-
-- ☕ Java runs on coffee, so do I
-- 🐛 Debugging is 90% reading logs, 10% pretending I knew it all along
-- ⚡ I get unreasonably excited about performance improvements
-- 🎨 I care about clean APIs almost as much as clean UI
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/hrithik-jain-7b67501b9/)
-- 📧 Email: [Email](hrithik18.jain@gmail.com)
-
----
-
-⭐ _Turning coffee into code and latency into metrics._
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
